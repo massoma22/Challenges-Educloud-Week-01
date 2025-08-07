@@ -1,4 +1,4 @@
-### Description du challenge ###
+# Description du challenge 
 
 Ce challenge consiste en la création avec la plateforme PartyRock, d'un site internet qui puisse répondre aux questions suivantes:
 - Qu'est-ce qu'une IA générative?
